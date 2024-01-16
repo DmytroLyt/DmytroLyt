@@ -1,10 +1,10 @@
-<h1 align='center'>
+<h2 align='center'>
   Hi there 👋 I'm Dmytro 👨‍💻
-</h1>
+</h2>
 
-<p align='center'>
-  A am an Analyst/Developer with experience in Operations,Data and Reporting analysis.
-</p>
+<h3 align='center'>
+  I am an Analyst/Developer with experience in Operations,Data and Reporting analysis.
+</h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/dmytrolyt/">
